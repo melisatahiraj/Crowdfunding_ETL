@@ -1,4 +1,4 @@
-# Crowdfunding_ETL_P2
+# Crowdfunding ETL
 
 ![connections_1](https://github.com/melisatahiraj/no_sql_challenge_2/assets/147450801/c5c51698-d3c1-4e15-a907-14b4c9709ca1)
 
